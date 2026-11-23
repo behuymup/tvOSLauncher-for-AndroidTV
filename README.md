@@ -40,10 +40,6 @@ Stream with AirPlay using a compatible companion app. Presentation Mode lets you
 
 Install supported APK and XAPK files, organize apps, and use built-in backup and restore. Optional VPN and DNS tools are available in settings.
 
-### New in Version 1.0.4
-
-A faster experience, reorganized settings, new image options, improved backup and restore, live snowfall effects, and a new multi-source screen saver.
-
 <p align="center">
   <img src="Setting.png" width="90%" alt="tvOS Launcher Settings"/>
 </p>
