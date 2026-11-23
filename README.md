@@ -1,6 +1,3 @@
-Xin lỗi, giờ mình hiểu đúng ý: bạn muốn **viết lại toàn bộ phần giới thiệu**, giữ mẫu cũ nhưng mở rộng danh sách tính năng và bổ sung những điểm app đang có mà bản trước chưa nhắc. Đây là bản đầy đủ hơn:
-
-```markdown
 # tvOS Launcher for Android TV
 
 <p align="center">
