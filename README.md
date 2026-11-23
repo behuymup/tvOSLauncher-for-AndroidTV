@@ -1,4 +1,4 @@
-# tvOS Launcher for Android TV
+<h1 align="center">tvOS Launcher for Android TV</h1>
 
 <p align="center">
   <strong>A More Personal Home for Your TV</strong>
@@ -12,9 +12,9 @@
 
 Make your Android TV feel like yours. Arrange your apps, personalize the screen, and keep everyday controls close at hand.
 
-## 🖼️ Explore the Launcher
+<h2 align="center">🖼️ Explore the Launcher</h2>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="Screenshot/Homescreen.png" width="100%" alt="Home screen"/>
@@ -68,6 +68,10 @@ Stream to Android TV with AirPlay and a compatible companion app. Presentation M
 ### Manage Apps and Settings
 
 Install supported APK and XAPK files, organize installed apps, and manage hidden or system apps. Back up and restore launcher settings, use supported VPN and DNS options, check for updates through GitHub, and automatically clear cache files to help free up storage.
+
+## 🆕 What’s New in Version 1.0.4
+
+Improved app performance and settings navigation. Added image settings and a multi-source screen saver, with real-time weather effects including snowfall. Fixed backup and restore issues.
 
 ---
 
