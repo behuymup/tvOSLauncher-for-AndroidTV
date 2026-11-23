@@ -2,70 +2,105 @@
 
 <p align="center">
   <strong>A More Personal Home for Your TV</strong>
-</p>
-
-<p align="center">
-  A refined Android TV launcher inspired by the look and feel of APtvOS.
-</p>
-
-<p align="center">
-  <img src="Homescreen.png" width="90%" alt="tvOS Launcher Home Screen"/>
+  <br/>
+  An elegant Android TV launcher inspired by APtvOS.
 </p>
 
 ---
 
 ## ✨ About
 
-Make your Android TV feel like yours. Choose your apps, create a look you love, and keep everyday controls close at hand.
+Make your Android TV feel like yours. Arrange your apps, personalize the screen, and keep everyday controls close at hand.
 
-## Features
+## 🖼️ Explore the Launcher
 
-### Make Home Yours
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshot/Homescreen.png" width="100%" alt="Home screen"/>
+      <br/><strong>Home Screen</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Screenshot/Controlcenter.png" width="100%" alt="Control Center"/>
+      <br/><strong>Control Center</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshot/AirPlay.png" width="100%" alt="AirPlay"/>
+      <br/><strong>AirPlay</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Screenshot/Screensaver.png" width="100%" alt="Screen saver"/>
+      <br/><strong>Screen Saver</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshot/Setting.png" width="100%" alt="Settings"/>
+      <br/><strong>Settings</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Screenshot/VPN.png" width="100%" alt="VPN settings"/>
+      <br/><strong>VPN</strong>
+    </td>
+  </tr>
+</table>
 
-Arrange your app dock and grid. Choose built-in wallpapers, personal photo slideshows, or online images from sources including Amazon, Apple Aerial, and NASA. Profiles give each viewer their own app order and avatar.
+## 🚀 Features
 
-### A More Immersive Screen
+### Make It Your Home
 
-Set the mood with Duo Clock, live weather, seasonal effects, and a screen saver with images from multiple sources. Fine-tune image and appearance settings to suit your TV.
+Arrange apps in the dock and grid, hide apps you don’t use, and create profiles with their own names, avatars, and app order. Choose built-in scenes, personal photo slideshows, or online images from Amazon, Apple Aerial, and NASA. Customize image settings, appearance, fonts, and languages.
 
-### Controls Within Reach
+### Set the Scene
 
-Use Control Center for Wi-Fi, Bluetooth, memory, sleep timer, TV inputs, AirPlay, and more. Customize shortcuts and map supported remote buttons to your favorite actions.
+Add a Duo Clock and view local weather and forecasts. Real-time effects, including snowfall, bring the home screen to life. The multi-source screen saver displays images from personal and online collections while your TV is idle.
 
-### More from Your TV
+### Keep Controls Close
 
-Stream with AirPlay using a compatible companion app. Presentation Mode lets you send photos, videos, and web pages to your TV from another device on the same network.
+Use Control Center to access Wi-Fi, Bluetooth, memory information, the sleep timer, ambient mode, TV inputs, AirPlay, and more. Choose which shortcuts appear, assign supported apps or actions, and map remote buttons to single, double, triple, or long presses.
 
-### Apps, Settings & Network
+### Do More with Your TV
 
-Install supported APK and XAPK files, organize apps, and use built-in backup and restore. Optional VPN and DNS tools are available in settings.
+Stream to Android TV with AirPlay and a compatible companion app. Presentation Mode lets you send photos, videos, and web pages from another device on the same network.
 
-<p align="center">
-  <img src="Setting.png" width="90%" alt="tvOS Launcher Settings"/>
-</p>
+### Manage Apps and Settings
+
+Install supported APK and XAPK files, organize installed apps, and manage hidden or system apps. Back up and restore launcher settings, use supported VPN and DNS options, check for updates through GitHub, and automatically clear cache files to help free up storage.
+
+## 🆕 What’s New in Version 1.0.4
+
+Improved app performance and settings navigation. Added image settings and a multi-source screen saver, with real-time weather effects including snowfall. Fixed backup and restore issues.
 
 ---
 
 ## 🎯 Our Vision
 
-A more personal, beautiful, and immersive way to enjoy Android TV.
+We bring the visual elegance of APtvOS-inspired design to the flexibility of Android TV. The result is a home screen that feels personal, keeps favorite apps and everyday controls within reach, and makes the big screen more enjoyable throughout the day.
 
 ## 📦 Updates & Releases
 
-Get APK downloads and release notes on the [Releases page](https://github.com/zikkunmusic/tvOS-Launcher-for-Android-TV/releases).
+Get official APK downloads, release notes, and update information on the [Releases page](https://github.com/zikkunmusic/BeHuyMup-tvOS-for-AndrTV/releases).
 
 ## 👥 Contributors
 
-- **Project Maintainer:** Direction, development, testing, and integration.
-- **ChatGPT by OpenAI:** AI-assisted development, coding, debugging, and UI/UX design.
+- **Project Maintainer:** Project direction, development, testing, and integration.
+- **ChatGPT by OpenAI:** AI-assisted development, coding, debugging, and interface design.
+
+## 🧩 Open-Source Projects
+
+tvOS Launcher builds on the work of these open-source projects:
+
+- [Hume Launcher](https://github.com/petrobot-admin/hume-launcher) — the original launcher codebase.
+- [Couch TV](https://github.com/Seagey/couch-tv) and [CleanYourTV](https://github.com/Gathin23/cleanyourtv) — projects acknowledged in the development of the launcher.
+- [Shield AirPlay](https://github.com/ebreen/shield-airplay) — an open-source AirPlay receiver that can be used as a compatible companion app.
+
+See [NOTICE](NOTICE) for acknowledgements and license details.
 
 ## 🤝 Feedback & Contributions
 
-Bug reports, suggestions, and feature requests are welcome.
-
-<p align="center">
-  <sub>For contributions, updates, bug reports, and support, feel free to contact me:</sub>
-</p>
+Bug reports, suggestions, and feature requests are welcome. For updates, support, or contributions, get in touch:
 
 <p align="center">
   <a href="https://t.me/behuymup">
