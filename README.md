@@ -69,10 +69,6 @@ Stream to Android TV with AirPlay and a compatible companion app. Presentation M
 
 Install supported APK and XAPK files, organize installed apps, and manage hidden or system apps. Back up and restore launcher settings, use supported VPN and DNS options, check for updates through GitHub, and automatically clear cache files to help free up storage.
 
-## 🆕 What’s New in Version 1.0.4
-
-Improved app performance and settings navigation. Added image settings and a multi-source screen saver, with real-time weather effects including snowfall. Fixed backup and restore issues.
-
 ---
 
 ## 🎯 Our Vision
