@@ -117,4 +117,3 @@ Bug reports, suggestions, and feature requests are welcome. For updates, support
   <br/>
   <sub>Made with love ❤️</sub>
 </p>
-```
