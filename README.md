@@ -1,3 +1,6 @@
+Xin lỗi, giờ mình hiểu đúng ý: bạn muốn **viết lại toàn bộ phần giới thiệu**, giữ mẫu cũ nhưng mở rộng danh sách tính năng và bổ sung những điểm app đang có mà bản trước chưa nhắc. Đây là bản đầy đủ hơn:
+
+```markdown
 # tvOS Launcher for Android TV
 
 <p align="center">
@@ -5,7 +8,7 @@
 </p>
 
 <p align="center">
-  A modern and elegant Android TV launcher focused on personalization, immersive visuals, and a refined big-screen experience.
+  A customizable Android TV launcher with immersive visuals, useful everyday controls, and a polished big-screen interface.
 </p>
 
 <p align="center">
@@ -16,18 +19,29 @@
 
 ## ✨ About
 
-**tvOS Launcher** transforms the traditional Android TV home screen into a more personal and visually immersive experience, inspired by the design philosophy of **APtvOS**.
+**tvOS Launcher** reimagines the Android TV home screen with a visual style inspired by **APtvOS** and the flexibility to make it your own.
 
-Combining elegant aesthetics with distinctive features, it brings a fresh approach to how users customize and interact with their television.
+Arrange your apps, choose the look of your screen, check the weather, and access useful controls from one place. Create personal profiles, explore a multi-source screensaver, and fine-tune the launcher to suit your TV.
 
 ## 🚀 Special Features
 
-- **Multi-Source Custom Images:** Personalize the home screen using images from multiple supported sources.
-- **Duo Clock:** A distinctive dual-clock experience for displaying time in a stylish way.
-- **Real-Time Weather Effects:** Dynamic weather information and atmospheric visual effects.
-- **Built-in AirPlay Support:** Turn your Android TV into an AirPlay receiver with an additional companion app.
-- **Advanced Appearance Customization:** Personalize wallpapers, backgrounds, and visual presentation.
-- **APtvOS-Inspired Settings:** A dedicated settings interface with a clean and cohesive design.
+- **Personalized Home Screen:** Organize your app dock and grid, hide apps you don't use, and tailor the layout to your preferences.
+- **Multiple Wallpaper Sources:** Choose built-in scenes, personal photo slideshows, or online images from sources such as Amazon, Apple Aerial, and NASA.
+- **Image & Appearance Settings:** Adjust visual options, background themes, wallpaper presentation, and other home screen details.
+- **Duo Clock:** Add a distinctive dual-clock layout to your home screen.
+- **Weather & Seasonal Effects:** View local weather and forecasts, with live visual effects including snowfall.
+- **Multi-Source Screen Saver:** Turn idle time into a photo experience with images from personal and online sources.
+- **Control Center:** Quickly access Wi-Fi, Bluetooth, memory information, sleep timer, ambient mode, TV inputs, AirPlay, and other shortcuts.
+- **Customizable Shortcuts:** Choose which Control Center icons appear and assign supported apps or actions to shortcuts.
+- **Remote Button Mapping:** Set actions for supported remote buttons, including double presses, triple presses, and long presses.
+- **Profiles for Everyone:** Create profiles with their own names, avatars, app order, and supported Continue Watching content.
+- **App Management:** Install supported APK and XAPK files, organize installed apps, and manage hidden or system apps.
+- **Backup & Restore:** Export launcher settings and restore them when needed.
+- **Built-in AirPlay Support:** Use a compatible companion app to stream to your Android TV.
+- **Photo Frame & Presentation Mode:** Send photos, videos, and web pages to the TV from another device on the same network.
+- **Network Tools:** Access supported VPN and DNS options from the launcher settings.
+- **Custom Fonts & Languages:** Personalize interface fonts and use the launcher in multiple languages.
+- **Performance & Settings Improvements:** Enjoy a more responsive experience and a reorganized settings interface.
 
 <p align="center">
   <img src="Setting.png" width="90%" alt="tvOS Launcher Settings"/>
@@ -77,3 +91,4 @@ Bug reports, suggestions, and feature requests are welcome.
   <br/>
   <sub>Made with love ❤️</sub>
 </p>
+```
