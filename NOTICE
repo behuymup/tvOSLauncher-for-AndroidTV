@@ -1,0 +1,72 @@
+NOTICE
+
+Copyright 2026 Huy Mụp.
+
+This notice covers only original components and modifications for which the
+named rights holder owns or is authorized to license the applicable rights.
+It does not replace, modify, or limit the licenses and notices of upstream or
+third-party components. See THIRD-PARTY-NOTICES.md for component details and
+license references.
+
+UPSTREAM PROJECTS
+
+ tvOS Launcher
+ Copyright 2026 techgenius.
+ Source: https://github.com/techgenius1/tvOS-Launcher
+ License: Apache License 2.0.
+
+ Hume Launcher
+ Copyright 2026 Petrobot (per the upstream NOTICE).
+ Source: https://github.com/petrobot-admin/hume-launcher
+ License: Apache License 2.0. Preserve applicable copyright and license
+ notices. Modified Apache-licensed files must identify their changes.
+
+THIRD-PARTY SOFTWARE AND ASSETS
+
+ CleanYourTV device data
+ Copyright (c) Gathin.
+ Source: https://github.com/Gathin23/cleanyourtv
+ License: MIT. See assets/legal/licenses/MIT-CleanYourTV.txt.
+
+ Project Nayuki QR Code Generator
+ Copyright (c) Project Nayuki.
+ Source: https://github.com/nayuki/QR-Code-generator
+ License: MIT. See assets/legal/licenses/MIT-Nayuki.txt and the notices in
+ the source files.
+
+ Inter and Inter Display fonts
+ Copyright (c) 2016 The Inter Project Authors.
+ Source: https://github.com/rsms/inter
+ License: SIL Open Font License 1.1. See assets/legal/licenses/OFL-1.1-Inter.txt.
+
+ OpenVPN Android and OpenVPN 3 Core
+ OpenVPN Android library attribution: VPNProtocols (io.github.tim06).
+ OpenVPN 3 Core copyright notices belong to OpenVPN Inc. and upstream
+ contributors. The Android library is Apache-2.0; OpenVPN 3 Core is MPL-2.0.
+ See libs/openvpn/NOTICE.md and assets/legal/licenses/.
+
+ Kotlin, AndroidX, and Okio dependencies
+ Copyrights belong to their respective authors and contributors.
+ License: Apache License 2.0, subject to each included archive's notices.
+ See libs/openvpn/NOTICE.md and assets/legal/licenses/Apache-2.0.txt.
+
+Macintosh Skeletal-derived setup strokes are included as derived data in
+assets/setup/macintosh-greetings.json. The bundled source terms contain use
+restrictions; permission for public APK redistribution has not been established.
+See THIRD-PARTY-NOTICES.md and assets/legal/licenses/Macintosh-Skeletal-Source-LICENSE.txt.
+
+RUNTIME DATA SOURCES
+
+Open-Meteo, MET Norway, and wttr.in are contacted for runtime weather data.
+These services and datasets are not app-code dependencies. Data rights,
+required attribution, and service terms may differ by provider and dataset.
+See THIRD-PARTY-NOTICES.md for references and attribution notes.
+
+ACKNOWLEDGED REFERENCES
+
+Couch TV — https://github.com/Seagey/couch-tv
+CleanYourTV — https://github.com/Gathin23/cleanyourtv
+McIntosh Writer — https://github.com/jhao941/McIntosh-Writer
+
+Couch TV and McIntosh Writer are acknowledged references. This checkout does
+not include a file-level map establishing that their code is bundled in the app.
