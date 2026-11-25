@@ -1,386 +1,431 @@
-<div align="center">
-  <h1>tvOS Launcher for Android TV</h1>
-  <p>
-    <strong>A More Personal Home for Your TV</strong><br/>
-    An elegant Android TV launcher inspired by APtvOS.
-  </p>
-  <p>
-    Make your TV feel like yours. Arrange your apps, personalize the screen,
-    and keep everyday controls close at hand.
-  </p>
-  <p>
-    <strong>Personalized home screen</strong> &nbsp;·&nbsp;
-    <strong>Remote-friendly controls</strong> &nbsp;·&nbsp;
-    <strong>Wallpapers, weather, and more</strong>
-  </p>
-</div>
+<h1 align="center">tvOS Launcher for Android TV</h1>
+
+<p align="center">
+  <strong>A More Personal Home for Your TV</strong>
+  <br/>
+  An elegant Android TV launcher inspired by APtvOS.
+</p>
+
+<p align="center">
+  <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/releases">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download the latest release"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV">
+    <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub project"/>
+  </a>
+</p>
 
 <hr/>
 
 <h2>✨ About</h2>
 
 <p>
-  tvOS Launcher gives Android TV and Google TV a welcoming home screen built
-  around the apps and features you use every day. Organize apps in a dock and
-  grid, set up profiles, choose a look for your screen, and open useful TV
-  controls with your remote.
+  Make your Android TV feel like yours. tvOS Launcher brings an APtvOS-inspired
+  look to Android TV, with a home screen you can personalize around your apps,
+  your photos, and the way you use your television.
 </p>
 
 <p>
-  It brings together personalization, weather, screen saver settings,
-  presentation tools, app management, and optional VPN features. Available
-  features can depend on your TV model, Android version, installed apps, and
-  network connection.
+  Arrange apps, create profiles, choose wallpapers, check local weather, and
+  keep everyday controls close at hand. Control Center brings supported TV
+  functions and launcher shortcuts together in one place, while the screen
+  saver can display personal photos and supported online collections.
 </p>
+
+<p>
+  Designed for the big screen and remote control, tvOS Launcher keeps favorite
+  apps and useful features easy to find throughout the day.
+</p>
+
+<h2>🌟 Launcher Highlights</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏠 Personal Home</h3>
+      <p>
+        Arrange your apps, choose a background, and create profiles with their
+        own names, avatars, and app order.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎛️ Quick Controls</h3>
+      <p>
+        Reach supported TV settings, launcher shortcuts, and remote actions
+        through Control Center.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌌 Your Screen Saver</h3>
+      <p>
+        Display personal photos and supported image collections while your TV
+        is idle.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
 
 <h2 align="center">🖼️ Explore the Launcher</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Make the Home Screen Yours</h3>
-      <p>
-        Arrange apps in the dock and grid, change their order, and hide apps
-        you do not use. Create profiles with their own names, avatars, and app
-        layouts, so each person can have a home screen that suits them.
-      </p>
-      <p>
-        Built-in scenes, personal photos, and supported online sources give
-        you ways to make the background your own.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Homescreen.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Homescreen.png" width="100%" alt="tvOS Launcher home screen"/>
-      </a>
-      <br/><sub>Home screen with wallpaper, weather, and app dock</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Choose Your Background</h3>
-      <p>
-        Use built-in scenes, photos from your TV, personal slideshows, or
-        supported Internet wallpaper sources. Image settings help you choose
-        how pictures appear on the screen.
-      </p>
-      <p>
-        Show local weather and forecasts, then add optional live effects such
-        as snowfall to the home screen.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Homescreen.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Homescreen.png" width="100%" alt="Launcher app dock displayed over a selected wallpaper"/>
-      </a>
-      <br/><sub>App dock displayed over a selected background</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Keep Controls Close</h3>
-      <p>
-        Open Control Center for shortcuts to supported TV controls, including
-        Wi-Fi, Bluetooth, TV inputs, audio, sleep timer, AirPlay, and search.
-      </p>
-      <p>
-        Choose which shortcuts appear and map supported remote buttons to
-        single, double, triple, or long-press actions. Available controls vary
-        by device.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Controlcenter.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Controlcenter.png" width="100%" alt="Launcher Control Center"/>
-      </a>
-      <br/><sub>Control Center shortcuts on the home screen</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Make Idle Time Feel Better</h3>
-      <p>
-        Configure the TV screen saver and choose how the launcher behaves
-        when the TV is idle. The home carousel can surface recommendations and
-        news, while screen saver options are managed from Settings.
-      </p>
-      <p>
-        Personal photos and supported online image sources can also be used
-        for slideshow features.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Screensaver.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Screensaver.png" width="100%" alt="Launcher screen saver"/>
-      </a>
-      <br/><sub>Screen saver while the TV is idle</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Connect and Present</h3>
-      <p>
-        Use AirPlay with a compatible receiver companion app to send supported
-        audio, video, or screen content to Android TV. The receiver app is
-        installed separately and is not bundled with the launcher.
-      </p>
-      <p>
-        Presentation Mode lets you send photos, videos, and web pages from a
-        phone or computer on the same local network.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/AirPlay.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/AirPlay.png" width="100%" alt="AirPlay settings in tvOS Launcher"/>
-      </a>
-      <br/><sub>AirPlay settings for a compatible receiver app</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Manage Apps and Settings</h3>
-      <p>
-        Install supported APK and XAPK files, organize installed apps, and
-        manage hidden or system apps. Back up and restore launcher settings,
-        check for updates, and use automatic cache cleanup.
-      </p>
-      <p>
-        Settings brings together profiles, screen saver options, AirPlay
-        controls, network features, and other device-specific options.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Setting.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/Setting.png" width="100%" alt="tvOS Launcher settings"/>
-      </a>
-      <br/><sub>Launcher settings and device options</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Optional VPN Features</h3>
-      <p>
-        Use the supported VPN features to manage profiles and connections on
-        compatible Android TV devices. VPN availability and behavior depend
-        on the device and selected VPN configuration.
-      </p>
-      <p>See the integrated VPN guide for setup information and device notes.</p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/VPN.png">
-        <img src="https://raw.githubusercontent.com/behuymup/tvOSLauncher-for-AndroidTV/main/Screenshot/VPN.png" width="100%" alt="VPN settings in tvOS Launcher"/>
-      </a>
-      <br/><sub>VPN settings</sub>
-    </td>
-  </tr>
-</table>
-
-<h2>🌐 Languages and Compatibility</h2>
+<h3>🚀 Get Started</h3>
 
 <p>
-  The interface is available in English, Vietnamese, Japanese, Chinese,
-  Hindi, Spanish, Thai, Korean, French, and Russian. The app targets Android
-  7.0 (API 24) and newer. Device support can vary by manufacturer, Android
-  release, system components, and remote-control behavior.
+  Set up the launcher on your TV and choose the initial options that work for
+  your device and preferences.
 </p>
 
-<h2>🧩 Open-Source Code and Credits</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/BeginSetup1.png">
+        <img src="Screenshot/BeginSetup1.png" width="100%" alt="Launcher setup screen 1"/>
+      </a>
+      <br/>
+      <strong>Begin Setup</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/BeginSetup2.png">
+        <img src="Screenshot/BeginSetup2.png" width="100%" alt="Launcher setup screen 2"/>
+      </a>
+      <br/>
+      <strong>Choose Your Options</strong>
+    </td>
+  </tr>
+</table>
+
+<h3>🏡 Personalize Your Home</h3>
+
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <h4>Home Screen</h4>
+      <p>
+        Keep your favorite apps front and center. Arrange apps in the dock and
+        grid, select a background, and view useful information such as local
+        weather from your home screen.
+      </p>
+      <p>
+        Choose a layout that works for your TV and make the launcher feel like
+        your own.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Homescreen.png">
+        <img src="Screenshot/Homescreen.png" width="100%" alt="tvOS Launcher home screen"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Setting.png">
+        <img src="Screenshot/Setting.png" width="100%" alt="Launcher settings"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle">
+      <h4>Launcher Settings</h4>
+      <p>
+        Adjust the launcher’s appearance and behavior from its settings.
+        Personalize available image options, fonts, and other preferences for
+        your TV.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="58%" valign="middle">
+      <h4>Language Options</h4>
+      <p>
+        Choose from the available language options to make launcher menus and
+        settings easier to use.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Language.png">
+        <img src="Screenshot/Language.png" width="100%" alt="Launcher language settings"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>🎛️ Control Your TV</h3>
+
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <h4>Control Center</h4>
+      <p>
+        Open frequently used controls from one place. Depending on your TV and
+        connected devices, Control Center can provide access to Wi-Fi,
+        Bluetooth, memory information, sleep timer, ambient mode, TV inputs,
+        AirPlay, and other shortcuts.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Controlcenter.png">
+        <img src="Screenshot/Controlcenter.png" width="100%" alt="Launcher Control Center"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Controlpanel-setting.png">
+        <img src="Screenshot/Controlpanel-setting.png" width="100%" alt="Control Center settings"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle">
+      <h4>Control Center Settings</h4>
+      <p>
+        Choose which supported controls and shortcuts appear in Control Center.
+        Keep the actions you use most within easy reach.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="58%" valign="middle">
+      <h4>Remote and Devices</h4>
+      <p>
+        Review supported remote and device options. Map supported remote
+        buttons to single, double, triple, or long-press actions.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/RemoteandDevices.png">
+        <img src="Screenshot/RemoteandDevices.png" width="100%" alt="Remote and devices settings"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>📦 Manage Apps and Connections</h3>
+
+<table width="100%">
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Apps.png">
+        <img src="Screenshot/Apps.png" width="100%" alt="App management settings"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle">
+      <h4>Apps</h4>
+      <p>
+        Organize installed apps and control which apps appear in the launcher.
+        Hide apps you do not use, manage supported system apps, and install
+        supported APK and XAPK files.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="58%" valign="middle">
+      <h4>Network</h4>
+      <p>
+        Find supported network options and related settings. Available controls
+        depend on the Android TV device and its software.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Network.png">
+        <img src="Screenshot/Network.png" width="100%" alt="Network settings"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/VPN.png">
+        <img src="Screenshot/VPN.png" width="100%" alt="VPN settings"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle">
+      <h4>VPN</h4>
+      <p>
+        Access supported VPN options from the launcher’s settings. Available
+        functions depend on the selected VPN configuration and the TV device.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h3>🎬 Enjoy and Share Content</h3>
+
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <h4>AirPlay</h4>
+      <p>
+        Stream supported content to Android TV with AirPlay and a compatible
+        companion receiver. AirPlay-related controls are available where
+        supported by the installed app and device.
+      </p>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/AirPlay.png">
+        <img src="Screenshot/AirPlay.png" width="100%" alt="AirPlay on tvOS Launcher"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/blob/main/Screenshot/Screensaver.png">
+        <img src="Screenshot/Screensaver.png" width="100%" alt="Launcher screen saver"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle">
+      <h4>Screen Saver</h4>
+      <p>
+        Turn an idle TV into a photo display. The multi-source screen saver can
+        show personal images and supported online collections while your TV is
+        not in use.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>🚀 Features</h2>
+
+<h3>Make It Your Home</h3>
+<ul>
+  <li>Arrange apps in the dock and home screen grid.</li>
+  <li>Hide apps you do not want to show on the home screen.</li>
+  <li>Create profiles with their own names and avatars.</li>
+  <li>Set a different app order for each profile.</li>
+  <li>Choose built-in scenes or personal photo slideshows.</li>
+  <li>Customize available image, appearance, font, and language options.</li>
+</ul>
+
+<h3>Set the Scene</h3>
+<ul>
+  <li>Add a Duo Clock to the home screen.</li>
+  <li>View local weather and forecasts.</li>
+  <li>Choose supported online image collections, including Amazon, Apple Aerial, and NASA.</li>
+  <li>Enjoy real-time visual effects, including snowfall.</li>
+  <li>Display personal and online images in the multi-source screen saver.</li>
+</ul>
+
+<h3>Keep Controls Close</h3>
+<ul>
+  <li>Open supported Wi-Fi and Bluetooth controls.</li>
+  <li>View memory information and use the sleep timer.</li>
+  <li>Access ambient mode, TV inputs, AirPlay, and other supported shortcuts.</li>
+  <li>Choose which shortcuts appear in Control Center.</li>
+  <li>Assign supported actions to remote button presses.</li>
+</ul>
+
+<h3>Do More with Your TV</h3>
+<ul>
+  <li>Stream to Android TV with AirPlay and a compatible companion app.</li>
+  <li>Use Presentation Mode to send photos, videos, and web pages from another device on the same network.</li>
+</ul>
+
+<h3>Manage Apps and Settings</h3>
+<ul>
+  <li>Install supported APK and XAPK files.</li>
+  <li>Organize installed apps and manage hidden or system apps.</li>
+  <li>Back up and restore launcher settings.</li>
+  <li>Use supported VPN and DNS options.</li>
+  <li>Check for launcher updates through GitHub.</li>
+  <li>Automatically clear cache files to help free up storage.</li>
+</ul>
+
+<hr/>
+
+<h2>🎯 Our Vision</h2>
 
 <p>
-  The source tree records the projects and components below. The exact
-  upstream revision or file-by-file reuse map is unavailable for some
-  entries; see the <a href="LICENSE-AUDIT.md">license audit</a> for details.
-  Full notices and license texts are available in
-  <a href="THIRD-PARTY-NOTICES.md">Third-Party Notices</a> and
-  <a href="assets/legal/">assets/legal/</a>.
+  We bring the visual elegance of APtvOS-inspired design to the flexibility of
+  Android TV. The result is a home screen that feels personal, keeps favorite
+  apps and everyday controls within reach, and makes the big screen more
+  enjoyable throughout the day.
 </p>
 
-<h3>Source Code and Bundled Components</h3>
+<h2>📥 Updates &amp; Releases</h2>
+
+<p>
+  Get official APK downloads, release notes, and update information on the
+  <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/releases">GitHub Releases page</a>.
+</p>
+
+<h2>🧩 Open-Source Acknowledgements</h2>
+
+<p>
+  tvOS Launcher acknowledges the open-source projects and components listed
+  below. See the project notices for acknowledgements and license details.
+</p>
 
 <ul>
   <li>
-    <a href="https://github.com/petrobot-admin/hume-launcher"><strong>Hume Launcher</strong></a>
-    — the launcher codebase this project identifies as its starting point.
-    Apache License 2.0.
+    <a href="https://github.com/petrobot-admin/hume-launcher">Hume Launcher</a>
+    — the original launcher codebase acknowledged by this project.
   </li>
   <li>
-    <a href="https://github.com/techgenius1/tvOS-Launcher"><strong>tvOS Launcher upstream</strong></a>
-    — upstream project lineage recorded in the project NOTICE. Apache
-    License 2.0; the exact imported revision and file mapping are unavailable
-    in this checkout.
+    <a href="https://github.com/Seagey/couch-tv">Couch TV</a>
+    — an open-source project acknowledged during development.
   </li>
   <li>
-    <a href="https://github.com/Gathin23/cleanyourtv"><strong>CleanYourTV</strong></a>
-    — source for bundled TV device cleanup profiles and related safety rules.
-    MIT License.
+    <a href="https://github.com/Gathin23/cleanyourtv">CleanYourTV</a>
+    — an open-source project acknowledged during development.
   </li>
   <li>
-    <a href="https://github.com/nayuki/QR-Code-generator"><strong>Project Nayuki QR Code Generator</strong></a>
-    — Java QR code source in <code>src/io/nayuki/qrcodegen/</code>. MIT
-    License.
+    <a href="https://github.com/Nayuki/QR-Code-generator">Project Nayuki QR Code</a>
+    — an open-source QR code project.
   </li>
   <li>
-    <a href="https://github.com/rsms/inter"><strong>Inter</strong></a>
-    — bundled Inter and Inter Display font files. SIL Open Font License 1.1.
-  </li>
-  <li>
-    <a href="https://github.com/OpenVPN/openvpn3"><strong>OpenVPN 3 Core</strong></a>
-    — native VPN runtime, Mozilla Public License 2.0. The Android AAR and
-    dependency versions are listed in
-    <a href="libs/openvpn/NOTICE.md"><code>libs/openvpn/NOTICE.md</code></a>;
-    the <a href="https://central.sonatype.com/artifact/io.github.tim06/openvpn">Maven Central record</a>
-    identifies the OpenVPN Android package.
-  </li>
-  <li>
-    <strong>Kotlin, AndroidX, and Okio</strong> — bundled dependencies used
-    by the OpenVPN Android components. See component versions in
-    <a href="libs/openvpn/NOTICE.md"><code>libs/openvpn/NOTICE.md</code></a>.
-    Source projects:
-    <a href="https://github.com/JetBrains/kotlin">Kotlin</a>,
-    <a href="https://github.com/Kotlin/kotlinx.coroutines">Kotlin Coroutines</a>,
-    <a href="https://github.com/androidx/androidx">AndroidX</a>, and
-    <a href="https://github.com/square/okio">Okio</a>.
+    <a href="https://github.com/ebreen/shield-airplay">Shield AirPlay</a>
+    — an open-source AirPlay receiver that can be used as a compatible companion app.
   </li>
 </ul>
-
-<h3>Asset with Separate Use Restrictions</h3>
-
-<ul>
-  <li>
-    <a href="https://github.com/npwitk/Macintosh-Skeletal-Filled"><strong>Macintosh Skeletal Filled</strong></a>
-    — source of Macintosh-derived stroke data used for the setup greeting.
-    The included source terms limit use to personal, non-commercial,
-    educational purposes; permission for public APK redistribution is not
-    established. See the <a href="LICENSE-AUDIT.md">license audit</a> before
-    redistribution.
-  </li>
-</ul>
-
-<h3>Acknowledged References and Companion Apps</h3>
-
-<ul>
-  <li>
-    <a href="https://github.com/Seagey/couch-tv">Couch TV</a> and
-    <a href="https://github.com/jhao941/McIntosh-Writer">McIntosh Writer</a>
-    are acknowledged references. This checkout does not establish that their
-    code is included in the app.
-  </li>
-  <li>
-    <a href="https://github.com/jqssun/android-airplay-server">Android AirPlay Server</a>
-    is a separate compatible receiver app described in the install guide. It
-    is not bundled with tvOS Launcher.
-  </li>
-</ul>
-
-<h3>Runtime Data Services</h3>
 
 <p>
-  These services provide data or media at runtime; their server code and
-  returned content have separate terms. Check each provider’s current
-  conditions and the attribution shown in the app.
+  See <a href="NOTICE">NOTICE</a> and
+  <a href="THIRD-PARTY-NOTICES.md">THIRD-PARTY-NOTICES.md</a>
+  for third-party acknowledgements and license details.
 </p>
 
+<h2>👥 Contributors</h2>
+
 <ul>
   <li>
-    Weather: <a href="https://open-meteo.com/">Open-Meteo</a>,
-    <a href="https://api.met.no/">MET Norway</a>, and
-    <a href="https://github.com/chubin/wttr.in">wttr.in</a>.
+    <strong>Project Maintainer:</strong>
+    Project direction, development, testing, and integration.
   </li>
   <li>
-    Artwork and wallpaper sources include museum collections,
-    <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>,
-    <a href="https://openverse.org/">Openverse</a>,
-    <a href="https://images.nasa.gov/">NASA</a>,
-    <a href="https://www.bing.com/">Bing</a>, Apple Aerials, Amazon’s image
-    catalog, and the project’s
-    <a href="https://github.com/behuymup/tvOSLauncher-for-AndroidTV/tree/main/Wallpaper">wallpaper repository</a>.
-  </li>
-  <li>
-    Other network features use news feeds, entertainment metadata services,
-    geolocation providers, and VPN Gate. Details are in the source and the
-    in-app legal information.
+    <strong>ChatGPT by OpenAI:</strong>
+    AI-assisted development, coding, debugging, and interface design.
   </li>
 </ul>
 
-<h2>📚 Documentation</h2>
-
-<ul>
-  <li><a href="docs/getting-started.md">Getting started</a></li>
-  <li><a href="docs/features.md">Feature guide</a></li>
-  <li><a href="docs/install.md">Install and permissions</a></li>
-  <li><a href="docs/presentation.md">Presentation Mode</a></li>
-  <li><a href="docs/vpn.md">Integrated VPN</a></li>
-  <li><a href="docs/architecture.md">Architecture</a></li>
-  <li><a href="docs/tv-performance-qa.md">TV focus and performance QA</a></li>
-  <li><a href="CONTRIBUTING.md">Contributing</a></li>
-  <li><a href="LICENSE-AUDIT.md">License audit</a></li>
-  <li><a href="THIRD-PARTY-NOTICES.md">Third-party notices</a></li>
-</ul>
-
-<h2>🛠️ Build</h2>
+<h2>🤝 Feedback &amp; Contributions</h2>
 
 <p>
-  Requirements: JDK 17 or newer, Android SDK Build Tools <code>35.0.0</code>,
-  platform <code>android-36</code>, and the SDK’s R8 tool (the defaults in
-  <code>build.sh</code>). Release builds require the maintainer release
-  keystore. R8 shrinks unused dependency code in both variants and obfuscates
-  app-owned names in Release while preserving Android and reflection entry
-  points. Debug builds retain app-owned names for local debugging. Set
-  <code>ENABLE_R8=0</code> to use D8 for diagnostics. Override SDK versions
-  with <code>BUILD_TOOLS_VERSION</code> and <code>COMPILE_SDK_VERSION</code>
-  when using another installed SDK.
+  Bug reports, suggestions, and feature requests are welcome. For updates,
+  support, or contributions, get in touch:
 </p>
 
-<p>From macOS or Linux:</p>
-
-<pre><code>RELEASE_KEYSTORE=/path/to/tvos-release.jks RELEASE_KEYSTORE_PASS=... VERSION_CODE=... VERSION_NAME=... ./build.sh</code></pre>
-
-<p>
-  For local development, run <code>BUILD_VARIANT=debug ./build.sh</code>;
-  debug APKs cannot update release installs and should not be distributed.
-  The signed APK is written to <code>build/tvos-home.apk</code>; the build
-  code increments from the existing output unless <code>VERSION_CODE</code>
-  is set. Intermediate files are removed after a successful build; set
-  <code>KEEP_BUILD_INTERMEDIATES=1</code> to retain them. See
-  <a href="docs/getting-started.md">Getting started</a> for SDK setup and
-  install steps. On Windows, use <code>build.ps1</code> with the same
-  <code>RELEASE_KEYSTORE</code> and <code>RELEASE_KEYSTORE_PASS</code>
-  variables for releases, or <code>BUILD_VARIANT=debug</code> for development.
-</p>
-
-<h2>⚖️ License</h2>
-
-<p>
-  The root <a href="LICENSE">LICENSE</a> and <a href="NOTICE">NOTICE</a>
-  preserve the project’s Apache-2.0 terms and upstream credits. Third-party
-  components have their own licenses and notices; review the
-  <a href="LICENSE-AUDIT.md">license audit</a> and
-  <a href="THIRD-PARTY-NOTICES.md">Third-Party Notices</a> before
-  redistributing the app or its source.
+<p align="center">
+  <a href="https://t.me/behuymup">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Contact via Telegram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:75carotid.freeze@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=minutemailer&amp;logoColor=white" alt="Contact via email"/>
+  </a>
 </p>
 
 <hr/>
 
-<div align="center">
+<p align="center">
   <strong>tvOS Launcher</strong>
   <br/>
   <sub>Make your TV experience uniquely yours.</sub>
-</div>
+  <br/>
+  <sub>Made with love ❤️</sub>
+</p>
